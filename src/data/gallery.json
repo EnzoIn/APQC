@@ -1,0 +1,118 @@
+[
+  {
+    "src": "https://images.pexels.com/photos/1586947/pexels-photo-1586947.jpeg",
+    "alt": "Baguettes artisanales fraîches"
+  },
+  {
+    "src": "https://images.pexels.com/photos/2067396/pexels-photo-2067396.jpeg",
+    "alt": "Croissants dorés"
+  },
+  {
+    "src": "https://images.pexels.com/photos/1126728/pexels-photo-1126728.jpeg",
+    "alt": "Pâtisseries colorées"
+  },
+  {
+    "src": "https://images.pexels.com/photos/4109943/pexels-photo-4109943.jpeg",
+    "alt": "Équipe au fournil"
+  },
+  {
+    "src": "https://images.pexels.com/photos/4110256/pexels-photo-4110256.jpeg",
+    "alt": "Spécialités bretonnes"
+  },
+  {
+    "src": "https://images.pexels.com/photos/1775043/pexels-photo-1775043.jpeg",
+    "alt": "Pain de campagne"
+  },
+  {
+    "src": "./public/apqc_photo1.jpg",
+    "alt": "alt1"
+  },
+  {
+    "src": "./public/apqc_photo2.jpg",
+    "alt": "alt2"
+  },
+  {
+    "src": "./public/apqc_photo3.jpg",
+    "alt": "alt3"
+  },
+  {
+    "src": "./public/apqc_photo4.jpg",
+    "alt": "alt4"
+  },
+  {
+    "src": "./public/apqc_photo5.jpg",
+    "alt": "alt5"
+  },
+  {
+    "src": "./public/apqc_photo6.jpg",
+    "alt": "alt6"
+  },
+  {
+    "src": "./public/apqc_photo7.jpg",
+    "alt": "alt7"
+  },
+  {
+    "src": "./public/apqc_photo8.jpg",
+    "alt": "alt8"
+  },
+  {
+    "src": "./public/apqc_photo9.jpg",
+    "alt": "alt9"
+  },
+  {
+    "src": "./public/apqc_photo10.jpg",
+    "alt": "alt10"
+  },
+  {
+    "src": "./public/apqc_photo11.jpg",
+    "alt": "alt11"
+  },
+  {
+    "src": "./public/apqc_photo12.jpg",
+    "alt": "alt12"
+  },
+  {
+    "src": "./public/apqc_photo13.jpg",
+    "alt": "alt13"
+  },
+  {
+    "src": "./public/apqc_photo14.jpg",
+    "alt": "alt14"
+  },
+  {
+    "src": "./public/apqc_photo15.jpg",
+    "alt": "alt15"
+  },
+  {
+    "src": "./public/apqc_photo16.jpg",
+    "alt": "alt16"
+  },
+  {
+    "src": "./public/apqc_photo17.jpg",
+    "alt": "alt17"
+  },
+  {
+    "src": "./public/apqc_photo18.jpg",
+    "alt": "alt18"
+  },
+  {
+    "src": "./public/apqc_photo19.jpg",
+    "alt": "alt19"
+  },
+  {
+    "src": "./public/apqc_photo20.jpg",
+    "alt": "alt20"
+  },
+  {
+    "src": "./public/apqc_photo21.jpg",
+    "alt": "alt21"
+  },
+  {
+    "src": "./public/apqc_photo22.jpg",
+    "alt": "alt22"
+  },
+  {
+    "src": "./public/apqc_photo23.jpg",
+    "alt": "alt23"
+  }
+]
