@@ -1,4 +1,3 @@
-import React from 'react';
 import { Wheat, Croissant, Cake, Coffee } from 'lucide-react';
 
 const Products = () => {
@@ -7,25 +6,25 @@ const Products = () => {
       icon: <Wheat className="text-brown-gold" size={48} />,
       title: 'Pains',
       description: 'Baguettes tradition, pains complets, céréales, seigle, campagne… façonnés chaque matin pour un goût authentique.',
-      image: 'https://images.pexels.com/photos/1586947/pexels-photo-1586947.jpeg'
+      image: './public/apqc_photo22.jpg'
     },
     {
       icon: <Croissant className="text-brown-gold" size={48} />,
       title: 'Viennoiseries',
       description: 'Croissants, pains au chocolat, brioches et spécialités feuilletées dorées à souhait.',
-      image: 'https://images.pexels.com/photos/2067396/pexels-photo-2067396.jpeg'
+      image: './public/apqc_photo23.jpg'
     },
     {
       icon: <Cake className="text-brown-gold" size={48} />,
       title: 'Pâtisseries',
       description: 'Tartes aux fruits, éclairs, entremets et créations saisonnières, pour toutes les occasions.',
-      image: 'https://images.pexels.com/photos/1126728/pexels-photo-1126728.jpeg'
+      image: './public/apqc_photo20.jpg'
     },
     {
       icon: <Coffee className="text-brown-gold" size={48} />,
       title: 'Snacking & Spécialités Bretonnes',
       description: 'Sandwichs, quiches, galettes… et bien sûr le kouign-amann et le far breton.',
-      image: 'https://images.pexels.com/photos/4110256/pexels-photo-4110256.jpeg'
+      image: './public/apqc_photo21.jpg'
     }
   ];
 

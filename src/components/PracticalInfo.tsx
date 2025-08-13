@@ -1,4 +1,3 @@
-import React from 'react';
 import { MapPin, Clock, Phone, Instagram } from 'lucide-react';
 
 const PracticalInfo = () => {

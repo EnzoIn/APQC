@@ -1,4 +1,3 @@
-import React from 'react';
 import { Heart, Award, MapPin } from 'lucide-react';
 
 const About = () => {
@@ -16,7 +15,7 @@ const About = () => {
           <div className="grid md:grid-cols-2 gap-12 items-center">
             <div className="animate-slide-up">
               <img
-                src="https://images.pexels.com/photos/4109943/pexels-photo-4109943.jpeg"
+                src="/public/apqc_photo2.jpg"
                 alt="Boulanger au travail"
                 className="rounded-lg shadow-lg w-full h-96 object-cover"
               />

@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import { Menu, X } from 'lucide-react';
 
 const Header = () => {
@@ -31,7 +31,7 @@ const Header = () => {
             <img 
               src="/logo_apqc.svg" 
               alt="Au Pain Qui Crak' - Logo" 
-             className="h-16 w-auto"
+             className="h-12 w-auto"
             />
           </div>
           
@@ -41,7 +41,11 @@ const Header = () => {
               <button
                 key={item}
                 onClick={() => scrollToSection(item.toLowerCase().replace(' ', '-').replace('à-', 'a-'))}
-                className="font-opensans text-navy-breton hover:text-brown-gold transition-colors duration-300 font-medium"
+                className={`font-opensans transition-colors duration-300 font-medium ${
+                  isScrolled 
+                    ? 'text-navy-breton hover:text-brown-gold' 
+                    : 'text-white hover:text-brown-gold'
+                }`}
               >
                 {item}
               </button>
@@ -50,7 +54,9 @@ const Header = () => {
 
           {/* Mobile Menu Button */}
           <button
-            className="md:hidden text-navy-breton"
+            className={`md:hidden transition-colors duration-300 ${
+              isScrolled ? 'text-navy-breton' : 'text-white'
+            }`}
             onClick={() => setIsMenuOpen(!isMenuOpen)}
           >
             {isMenuOpen ? <X size={24} /> : <Menu size={24} />}

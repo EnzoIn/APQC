@@ -1,4 +1,3 @@
-import React from 'react';
 import { Award, ChevronDown } from 'lucide-react';
 
 const Hero = () => {
@@ -15,7 +14,7 @@ const Hero = () => {
       <div 
         className="absolute inset-0 bg-cover bg-center bg-no-repeat"
         style={{
-          backgroundImage: 'url(https://images.pexels.com/photos/1775043/pexels-photo-1775043.jpeg)',
+          backgroundImage: 'url(./public/apqc_photo18.jpg)',
         }}
       >
         <div className="absolute inset-0 bg-navy-breton/40"></div>
