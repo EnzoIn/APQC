@@ -1,4 +1,3 @@
-import React from 'react';
 import { Heart, MapPin, Phone, Instagram } from 'lucide-react';
 
 const Footer = () => {
@@ -71,7 +70,7 @@ const Footer = () => {
 
         <div className="border-t border-cream/20 mt-8 pt-8 text-center">
           <p className="font-opensans text-cream/60 text-sm">
-            © 2024 Au Pain Qui Crak' - Tous droits réservés | Site créé avec passion pour le goût authentique
+            © {new Date().getFullYear()} Au Pain Qui Crak' - Tous droits réservés | Site créé avec passion pour le goût authentique
           </p>
         </div>
       </div>
